@@ -1,4 +1,4 @@
-# MelCap: A Unified Single-Codebook Neural Codec for High-Fidelity Audio Compression
+# MelTok: A Frequency-Aware Audio Tokenizer for Audio Language Modeling
 
 [Audio samples](https://melcapdemo.github.io/Mel_cap_demo/) | [Paper](https://arxiv.org/html/2510.01903v1)
 
